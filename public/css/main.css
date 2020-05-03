@@ -1,0 +1,22 @@
+.item {
+    border: 1px solid black;
+    margin-top: 40px;
+    padding: 20px;
+    height: 400px;
+}
+
+.item img {
+    width: 40%;
+    height: 50%;
+} 
+
+.item .info {
+    float: right;
+    height: 50%px;
+    width: 50%;
+    padding-right: 30px;
+}
+
+.form-check {
+    margin: 15px;
+}
